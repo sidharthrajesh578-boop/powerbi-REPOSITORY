@@ -1,4 +1,3 @@
-# powerbi-REPOSITORY
 # Power BI Assignment 2: DAX & Data Visualization – E-Commerce Sales Analysis
 
 ## Project Overview
@@ -47,4 +46,4 @@ Created calculated columns and measures to analyze sales and profitability:
 - **Sales Distribution by Sub-Category:** Used a treemap to compare sales contributions from different sub-categories.
 - **Order Count Analysis by State:** Used a funnel chart to visualize order counts across states.
 - **Profit vs. Quantity by Sub-Category:** Used a scatter chart to explore the relationship between quantity sold and profit.
-- **K
+  
